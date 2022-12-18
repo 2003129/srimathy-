@@ -10,6 +10,8 @@ Sample Output:
 23.11
 23.1
 
+
+coding:
 #include<iostream>
 #include<iomanip>
 using namespace std;
