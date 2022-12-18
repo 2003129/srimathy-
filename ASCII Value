@@ -5,6 +5,7 @@ Sample Output:
 65
 
 
+coding:
 #include<iostream>
 using namespace std;
 int main()
